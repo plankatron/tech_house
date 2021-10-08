@@ -12,7 +12,7 @@
       "content": {
         "lightType": "directional",
         "args": [[255, 180, 10], 2],
-        "position": [10, 20, 300]
+        "position": [10, 20, 30000]
       }
     },
     {
